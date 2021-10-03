@@ -8,9 +8,11 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
+              <div className="author-img" style={{ backgroundImage: 'url(images/pp.jpeg)' }} />
               <h1 id="colorlib-logo"><a href="index.html">Arunkumar Panneerselvam</a></h1>
-              <span className="email"><i className="icon-mail"></i>akpgaa@gmail.com</span>
+              {/* <h2 id="colorlib-logo"><a href="index.html">FULLSTACK DEVELOPER</a></h2> */}
+              <span className="email">FULLSTACK DEVELOPER</span>
+              <span className="email"><a href="mailto:akpgaa@gmail.com"><i className="icon-mail"></i>akpgaa@gmail.com</a></span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -41,10 +43,10 @@ export default class Sidebar extends Component {
               <p><small>
                 Something coming soon !!
               </small></p> */}
-            <p>
-              Looking for Something.....!
-            </p>
-            </div> 
+              <p>
+                Looking for Something.....!
+              </p>
+            </div>
           </aside>
         </div>
       </div>

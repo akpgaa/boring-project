@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Associate developer at TRAXERP/Consortia22 <span>Nov,2020-present</span></h2>
-                        <p>I recently have joined the Associate developer at TRAXERP/Consortia22 in the DevOps team. My major works are Testing, evaluating new programs, and deploying into the Server</p>
+                        <p>I recently have joined the Associate developer at TRAXERP/Consortia22 in the DevOps team. My major works are developing, evaluating new programs, and deploying into the Server</p>
                       </div>
                     </div>
                   </article>

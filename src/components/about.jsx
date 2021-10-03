@@ -17,7 +17,7 @@ export default class About extends Component {
                    🖥 Software Engineer from Cuddalore cultivated in UCE Tindivanam , Tamilnadu 
                    </p>
                    <p>
-                   🖥 Having 6 months of experience in React , React Native, NodeJS, ExpressJS, MySQL to Research, design, implement and manage software programs.
+                   🖥 Having 11 months of experience in React , React Native, NodeJS, ExpressJS, MySQL to Research, design, implement and manage software programs.
                    </p>
                    <p>
                    🖥 Testing, evaluating new programs, and deploying into the Server
