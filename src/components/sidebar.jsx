@@ -35,17 +35,12 @@ export default class Sidebar extends Component {
                 <li><a href="#" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
-            <div className="colorlib-footer">
-              {/* <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration 
-              </small></p>
+            <div className="colorlib-footer" onClick={() => { window.location.href = 'login' }}>
+
               <p><small>
-                Something coming soon !!
-              </small></p> */}
-              <p>
-                Looking for Something.....!
-              </p>
+                Login
+              </small></p>
+
             </div>
           </aside>
         </div>

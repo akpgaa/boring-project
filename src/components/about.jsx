@@ -14,13 +14,13 @@ export default class About extends Component {
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                   🖥 Software Engineer from Cuddalore cultivated in UCE Tindivanam , Tamilnadu 
+                   🖥 Software Engineer from Cuddalore cultivated in UCE-Tindivanam,Tamilnadu .
                    </p>
                    <p>
-                   🖥 Having 11 months of experience in React , React Native, NodeJS, ExpressJS, MySQL to Research, design, implement and manage software programs.
+                   🖥 Having 13 months of experience in React,React Native, NodeJS, ExpressJS, MySQL to Research, design, implement and manage software programs.
                    </p>
                    <p>
-                   🖥 Testing, evaluating new programs, and deploying into the Server
+                   🖥 Testing, evaluating new programs, and deploying into the Server.
                    </p>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites  using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building websites using JavaScript,React,HTML,CSS</p>
                 </div>
                 </div>
             </div>

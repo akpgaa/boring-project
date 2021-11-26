@@ -15,7 +15,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>UG at UCE Tindivanam<span>2016-2020</span></h2>
+                        <h2>UG at UCE Tindivanam <span>2016-2020</span></h2>
                         <p>I completed my B.E in Computer Science & Engineering from the University College of Engineering Tindinvanam</p>
                       </div>
                     </div>
@@ -45,7 +45,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Primary and Higher Education <span>2003-2016</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry,Maths &Computer Science.</p> 
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry,Maths &Computer Science.</p>
                       </div>
                     </div>
                   </article>
