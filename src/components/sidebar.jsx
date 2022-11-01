@@ -8,8 +8,8 @@ export default class Sidebar extends Component {
           <nav href="#navbar" className="js-colorlib-nav-toggle colorlib-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i /></nav>
           <aside id="colorlib-aside" className="border js-fullheight">
             <div className="text-center">
-              <div className="author-img" style={{ backgroundImage: 'url(images/pp.jpeg)' }} />
-              <h1 id="colorlib-logo"><a href="index.html">Arunkumar Panneerselvam</a></h1>
+              <div className="author-img" style={{ backgroundImage: 'url(images/pp1.jpg)' }} />
+              <h1 id="colorlib-logo" style={{textAlign:'center'}}>Arunkumar Panneerselvam</h1>
               {/* <h2 id="colorlib-logo"><a href="index.html">FULLSTACK DEVELOPER</a></h2> */}
               <span className="email">FULLSTACK DEVELOPER</span>
               <span className="email"><a href="mailto:akpgaa@gmail.com"><i className="icon-mail"></i>akpgaa@gmail.com</a></span>
