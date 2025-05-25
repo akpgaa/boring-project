@@ -17,14 +17,25 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-6">
+                      <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Softwate developer at Optisol Business Solutions <span>May,2022-present</span></h2>
-                        <p>Working as a software developer specialized in NextJS, React , AwsAmplify</p>
+                        <h2>Senior Softwate developer at Phton Interactive Solutions <span>Nov,2024-present</span></h2>
+                        <p>Working as a Senior Softwate developer specialized in NextJS, React, Typescript, MonoRepo</p>
                       </div>
                     </div>
+                    </article>
+                       <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                      <div className="timeline-entry-inner">
+                        <div className="timeline-icon color-2">
+                          <i className="icon-pen2" />
+                        </div>
+                        <div className="timeline-label">
+                          <h2>Softwate developer at Optisol Business Solutions <span>May,2022-Nov,2024</span></h2>
+                        <p>Working as a software developer specialized in NextJS, React , AwsAmplify</p>
+                    </div>
+                      </div>
                     </article>
                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                       <div className="timeline-entry-inner">

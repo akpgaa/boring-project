@@ -14,10 +14,10 @@ export default class About extends Component {
                                             <span className="heading-meta">About Us</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <p>
-                                                🖥 Software Engineer from Cuddalore cultivated in UCE-Tindivanam,Tamilnadu .
+                                                🖥 Senir Software Engineer from Cuddalore cultivated in UCE-Tindivanam,Tamilnadu .
                                             </p>
                                             <p>
-                                                🖥 Having 2.9 Years of experience in  NextJS, React,React Native, NodeJS,AWS Amplify, ExpressJS, MySQL to Research, design, implement and manage software programs.
+                                                🖥 Having 4.5 Years of experience in  NextJS, React,React Native, NodeJS,AWS Amplify, ExpressJS, MySQL to Research, design, implement and manage software programs.
                                             </p>
                                             <p>
                                                 🖥 Testing, evaluating new programs, and deploying into the Server.
